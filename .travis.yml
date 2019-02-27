@@ -5,7 +5,7 @@ node_js:
   - "11"
 
 script:
-  - yarn test
+  - npm run test
 branches:
   only:
     - master
